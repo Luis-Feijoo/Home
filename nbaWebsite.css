@@ -1,0 +1,36 @@
+body
+{
+	font-family: "Trebuchet MS"; 
+	text-align: justify;
+	background: url("images/nbalogo.jpg");
+	font-size: 25px;
+}
+
+h1
+{
+	text-align: center;
+	color: red;
+}
+
+h2, h3
+{
+	color: lightblue;
+}
+
+h4, h5
+{
+	color: white;
+}
+
+p
+{
+	text-align: justify;
+	color : white;
+}
+
+
+	
+	
+	
+
+
